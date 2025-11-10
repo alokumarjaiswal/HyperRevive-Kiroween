@@ -18,7 +18,7 @@ Interactive personal knowledge base (e.g., storyboarding for writers).
 MERN (MongoDB, Express, React, Node.js); Kiro for AI-assisted development.
 
 ## Installation
-- Clone repo: git clone https://github.com/yourusername/HyperRevive-Kiroween.git
+- Clone repo: git clone https://github.com/alokumarjaiswal/HyperRevive-Kiroween.git
 - Install dependencies: npm install
 - Run: npm start (frontend) / node server.js (backend)
 - For Kiro: See /.kiro for specs and prompts.
